@@ -1,6 +1,3 @@
-[submodule "themes/hexo-theme-report"]
-	path = themes/hexo-theme-report
-	url = https://github.com/Reilkay/hexo-theme-report.git
 [submodule ".\\themes\\report"]
 	path = .\\themes\\report
 	url = https://github.com/Reilkay/hexo-theme-report.git
