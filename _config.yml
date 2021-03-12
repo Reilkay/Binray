@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.reilkay.com
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -103,3 +103,10 @@ theme: report
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Valine
+valine:
+  enable: true
+  serverURLs: https://binray-waline.vercel.app/
+  placeHolder: "在此留下评论..."
+  visitor: true
