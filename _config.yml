@@ -110,3 +110,7 @@ valine:
   serverURLs: https://binray-waline.vercel.app/
   placeHolder: "在此留下评论..."
   visitor: true
+  master: 
+    - '42dfe9021370e676c75bd44d51997086'
+  friends: 
+    -
