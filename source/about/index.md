@@ -24,4 +24,4 @@ comments: false
 
 推荐联系方式为个人outlook邮箱：[zrztt@outlook.com](mailto:zrztt@outlook.com)
 
-也可以通过Telegram：[QiYuex](https://t.me/)  或QQ：[3065039139](https://suo.yt/cDRUZ7n) 与我取得联系。
+也可以通过Telegram：[QiYuex](https://t.me/QiYuex)  或QQ：[3065039139](https://suo.yt/cDRUZ7n) 与我取得联系。
