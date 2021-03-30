@@ -107,9 +107,7 @@ tags: ['Windows Terminal','美化']
 
 + 字体(下文配置oh-my-posh需要powerline字体)：`"fontFace": "MesloLGMDZ Nerd Font Mono"`
 + 亚克力效果(半透明)：`"useAcrylic": true`
-
 + 透明度：`"acrylicOpacity": 0.6`
-
 + 光标样式：`"cursorShape": "bar"` 
 + 光标颜色：`"cursorColor" : "#000000"`
 + 背景图片：`"backgroundImage" : "Image-Path/image.png"`
